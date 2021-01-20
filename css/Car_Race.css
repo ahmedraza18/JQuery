@@ -2,7 +2,7 @@
 	text-align: center;
 }
 #racetrack{
-	background: url('../img/racetrack.png') center left 
+	background: url('../assets/racetrack.png') center left 
 	repeat-x;
 	height: 330px;
 	border-right: dashed 10px white;
